@@ -13,5 +13,6 @@ if [[ $seq =~ ^[ACGTU]+$ ]]; then
 else
   echo "The sequence is not DNA nor RNA"
 fi
+"This function help us to know if we are with DNA or RNA(guardado y comitado"
 
 
