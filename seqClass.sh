@@ -22,4 +22,6 @@ if [[ -n $motif ]]; then
     echo "NO LO HE ENCONTRADO JEJE"
   fi
 fi
+"hola me llamo sofia"
+
 
